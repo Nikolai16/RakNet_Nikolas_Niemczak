@@ -1,3 +1,0 @@
-﻿  main.cpp
-c:\users\owner\desktop\rknet\raknet-master\nniemczak-emptyraknet\nniemczak-emptyraknet\main.cpp(89): warning C4477: 'printf' : format string '%I64u' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'RakNet::RakNetGUID'
-  NNiemczak-EmptyRakNet.vcxproj -> C:\Users\Owner\Desktop\RKNET\RakNet-master\NNiemczak-EmptyRakNet\Debug\NNiemczak-EmptyRakNet.exe
